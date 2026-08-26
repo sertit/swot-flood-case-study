@@ -1,0 +1,15 @@
+name: swot-flood
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - geopandas
+  - rasterio
+  - xarray
+  - netCDF4
+  - ipykernel
+  - jupyter
+  - notebook
+  - pip:
+    - geodatasets
