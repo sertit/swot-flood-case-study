@@ -6,7 +6,7 @@ SATELLITE ALTIMETRY - A TOOL FOR CONTINENTAL WATER MONITORING - September 07–1
 
 Practical sessions exploring how SWOT PIXC and RiverSP observations can be used to monitor flooding events.
 
-## Access the notebooks
+## First Access to the notebooks
 
 ### Local with windows
 1. Install git for windows: https://git-scm.com/install/windows
@@ -30,3 +30,13 @@ jupyter notebook
 2. Fill in the following fields:
 - **GitHub:** https://github.com/sertit/swot-flood-case-study
 - **Launch** OR copy the resulting url in another web tab
+
+
+
+## In case of a second access 
+From a terminal, run the following commands:
+```sh
+cd swot-flood-case-study
+conda activate swot-flood
+jupyter notebook
+```
