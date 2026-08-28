@@ -3,3 +3,4 @@
 *.prj
 *.shp
 *.shx
+.ipynb_checkpoints
