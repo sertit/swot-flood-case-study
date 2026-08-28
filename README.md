@@ -29,5 +29,4 @@ jupyter notebook
 
 2. Fill in the following fields:
 - **GitHub:** https://github.com/sertit/swot-flood-case-study
-- **File to open :** PIXC_vietnam_flooding.ipynb & RiverSP_vietnam_flooding.ipynb
 - **Launch** OR copy the resulting url in another web tab
